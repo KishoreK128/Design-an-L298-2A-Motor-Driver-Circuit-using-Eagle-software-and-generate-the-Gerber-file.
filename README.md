@@ -68,9 +68,14 @@ o	When both inputs are the same, the motor stops.<br>
 ![image](https://github.com/user-attachments/assets/b463c844-3660-426e-8c6a-09600f6720df)
 
 # EXPECTED OUTPUT:
-### Schematic diagram
+### Schematic diagram:
+
+<img width="1016" height="575" alt="image" src="https://github.com/user-attachments/assets/511bc6d5-2dbf-4100-8159-e19ec38fea9b" />
+
  
 ### Layout diagram
- 
+
+ <img width="1034" height="767" alt="image" src="https://github.com/user-attachments/assets/35eec29a-6d68-47f6-97b1-ec858461998b" />
+
 # RESULT:
 Thus, the schematic and PCB layout for the L298 2A Motor Driver Circuit has been successfully designed using Eagle software.
